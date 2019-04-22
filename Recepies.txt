@@ -3,6 +3,8 @@ Welcome to our kitchen
 1.Kheer 
 2.Phasta
 3.Chicken 
+4.Beans
+5.Pizza
 
 
 
